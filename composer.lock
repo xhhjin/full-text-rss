@@ -16,7 +16,8 @@
         "php": "7.*",
         "ext-mbstring": "*",
         "ext-xmlrpc": "*",
-        "ext-apcu": "*"
+        "ext-apcu": "*",
+        "ext-tidy": "*"
     },
     "platform-dev": {
         "php": "7.*"
